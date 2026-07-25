@@ -138,29 +138,38 @@
 
 <div align="center">
 
-<!-- Stats using shields.io dynamic badges (reliable, no rate limits) -->
-<a href="https://github.com/rifqimulyawan?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-20-183AB9?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
-</a>
-<a href="https://github.com/rifqimulyawan?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-0-183AB9?style=flat-square&logo=github&logoColor=white" alt="Followers" />
-</a>
-<a href="https://github.com/rifqimulyawan?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-0-183AB9?style=flat-square&logo=github&logoColor=white" alt="Stars" />
-</a>
-<a href="https://github.com/rifqimulyawan">
+<!-- Dynamic shields.io badges (always reliable) -->
+<p>
+  <a href="https://github.com/rifqimulyawan?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-20-183AB9?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/rifqimulyawan?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-0-183AB9?style=flat-square&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/rifqimulyawan?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-0-183AB9?style=flat-square&logo=github&logoColor=white" alt="Stars" />
+  </a>
   <img src="https://img.shields.io/badge/Favorite_Language-Python-183AB9?style=flat-square&logo=python&logoColor=white" alt="Favorite Language" />
-</a>
+</p>
 
-<br/><br/>
+<!-- Per-repo stats using shields.io dynamic endpoints -->
+<p>
+  <a href="https://github.com/rifqimulyawan/quran-in-word">
+    <img src="https://img.shields.io/badge/Quran_in_Word-Latest-183AB9?style=flat-square&logo=microsoftword&logoColor=white" alt="Quran in Word" />
+  </a>
+  <a href="https://github.com/rifqimulyawan/quran-in-word/releases">
+    <img src="https://img.shields.io/github/v/release/rifqimulyawan/quran-in-word?style=flat-square&color=183AB9&label=Latest%20Release" alt="Quran in Word Release" />
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-183AB9?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License" />
+</p>
 
-<!-- GitHub Readme Stats (may be rate-limited, but usually works for visitors) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rifqimulyawan&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=183AB9&icon_color=183AB9&text_color=555555&include_all_commits=true&count_private=true" alt="GitHub Stats" onerror="this.style.display='none'" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqimulyawan&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=183AB9&text_color=555555&langs_count=8" alt="Top Languages" onerror="this.style.display='none'" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rifqimulyawan&theme=default&hide_border=true&background=00000000&ring=183AB9&fire=183AB9&currStreakLabel=183AB9&sideLabels=183AB9&dates=555555" alt="GitHub Streak" onerror="this.style.display='none'" />
+<!-- Language distribution badges -->
+<p>
+  <img src="https://img.shields.io/badge/Python-Primary-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Primary" />
+  <img src="https://img.shields.io/badge/TypeScript-Secondary-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Secondary" />
+  <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Backend" />
+  <img src="https://img.shields.io/badge/Ruby-Legacy-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby Legacy" />
+</p>
 
 </div>
 
