@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  
+
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=183AB9&center=true&vCenter=true&random=false&width=600&lines=Rifqi+Mulyawan;Web+Developer+%7C+SEO+Specialist;AI+Practitioner+%7C+Python+Developer;Open+Source+Contributor" alt="Typing SVG" />
@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/Website-rifqimulyawan.com-183AB9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://rmdigital.co.id">
-    <img src="https://img.shields.io/badge/RM_Digital-rmdigital.co.id-183AB9?style=for-the-badge&logo=business&logoColor=white" alt="RM Digital" />
+    <img src="https://img.shields.io/badge/RM_Digital-rmdigital.co.id-183AB9?style=for-the-badge" alt="RM Digital" />
   </a>
   <a href="https://twitter.com/rifqimulyawan">
-    <img src="https://img.shields.io/badge/Twitter-@rifqimulyawan-183AB9?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-@rifqimulyawan-183AB9?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   <a href="https://www.facebook.com/rifqimulyawancom/">
     <img src="https://img.shields.io/badge/Facebook-rifqimulyawan-183AB9?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/Python-Favorite-183AB9?style=flat-square&logo=python&logoColor=white" alt="Python (Favorite)" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
 <!-- AI & ML -->
@@ -91,11 +90,19 @@
 
 <div align="center">
 
-<a href="https://github.com/rifqimulyawan/quran-in-word">
-  <img src="https://img.shields.io/badge/Quran_in_Word-Office_Add--in-183AB9?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Quran in Word" />
+<a href="https://github.com/rifqimulyawan/quran-in-office">
+  <img src="https://img.shields.io/badge/Quran_in_Office-Word_%26_PowerPoint_Add--in-183AB9?style=for-the-badge&logo=microsoft&logoColor=white" alt="Quran in Office" />
 </a>
 <br/>
-<sub>Microsoft Word add-in for inserting Quran verses, translations, tafsir, and mushaf PDF — built with React, TypeScript, and Office.js</sub>
+<sub>Office.js add-in for Word &amp; PowerPoint — insert Quran verses, translations, tafsir, mushaf pages and ornamental frames in one click · <a href="https://quran.rmdigital.co.id/">quran.rmdigital.co.id</a></sub>
+
+<br/><br/>
+
+<a href="https://github.com/rifqimulyawan/rm-mail-merge-tools">
+  <img src="https://img.shields.io/badge/RM_Mail_Merge_Tools-Office_Add--in-183AB9?style=for-the-badge&logo=microsoftword&logoColor=white" alt="RM Mail Merge Tools" />
+</a>
+<br/>
+<sub>Mail merge add-in for Microsoft Word — bulk document generation from CSV / Google Sheets data · <a href="https://merge.rmdigital.co.id/">merge.rmdigital.co.id</a></sub>
 
 <br/><br/>
 
@@ -138,29 +145,26 @@
 
 <div align="center">
 
-<!-- Dynamic shields.io badges (always reliable) -->
 <p>
   <a href="https://github.com/rifqimulyawan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-20-183AB9?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-26-183AB9?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
   </a>
   <a href="https://github.com/rifqimulyawan?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-0-183AB9?style=flat-square&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/rifqimulyawan?style=flat-square&color=183AB9&label=Followers&logo=github" alt="Followers" />
   </a>
-  <a href="https://github.com/rifqimulyawan?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-0-183AB9?style=flat-square&logo=github&logoColor=white" alt="Stars" />
+  <a href="https://github.com/rifqimulyawan/quran-in-office">
+    <img src="https://img.shields.io/github/stars/rifqimulyawan/quran-in-office?style=flat-square&color=183AB9&label=Quran%20in%20Office%20Stars&logo=github" alt="Quran in Office stars" />
   </a>
-  <img src="https://img.shields.io/badge/Favorite_Language-Python-183AB9?style=flat-square&logo=python&logoColor=white" alt="Favorite Language" />
 </p>
 
-<!-- Per-repo stats using shields.io dynamic endpoints -->
+<!-- Latest release -->
 <p>
-  <a href="https://github.com/rifqimulyawan/quran-in-word">
-    <img src="https://img.shields.io/badge/Quran_in_Word-Latest-183AB9?style=flat-square&logo=microsoftword&logoColor=white" alt="Quran in Word" />
+  <a href="https://github.com/rifqimulyawan/quran-in-office/releases">
+    <img src="https://img.shields.io/github/v/release/rifqimulyawan/quran-in-office?style=flat-square&color=183AB9&label=Quran%20in%20Office" alt="Quran in Office Release" />
   </a>
-  <a href="https://github.com/rifqimulyawan/quran-in-word/releases">
-    <img src="https://img.shields.io/github/v/release/rifqimulyawan/quran-in-word?style=flat-square&color=183AB9&label=Latest%20Release" alt="Quran in Word Release" />
+  <a href="https://github.com/rifqimulyawan/rm-mail-merge-tools/releases">
+    <img src="https://img.shields.io/github/v/release/rifqimulyawan/rm-mail-merge-tools?style=flat-square&color=183AB9&label=RM%20Mail%20Merge%20Tools" alt="RM Mail Merge Tools Release" />
   </a>
-  <img src="https://img.shields.io/badge/License-MIT-183AB9?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="License" />
 </p>
 
 <!-- Language distribution badges -->
@@ -194,7 +198,7 @@
       <sub>Pre-trained CNN (GoogLeNet, InceptionV3) + Transformer decoder for Indonesian image captioning</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Research-AI_Thesis-183AB9?style=for-the-badge&logo=graduation&logoColor=white" alt="AI Thesis" />
+      <img src="https://img.shields.io/badge/Research-AI_Thesis-183AB9?style=for-the-badge&logo=openaccess&logoColor=white" alt="AI Thesis" />
       <br/>
       <sub>Bachelor's thesis on CNN architecture for Indonesian image captioning using Transformer</sub>
     </td>
@@ -222,8 +226,8 @@
 
 <div align="center">
 
-<a href="https://github.com/rifqimulyawan/quran-in-word">
-  <img src="https://img.shields.io/badge/Active_Project-Quran_in_Word-183AB9?style=flat-square&logo=microsoftword&logoColor=white" alt="Active Project" />
+<a href="https://github.com/rifqimulyawan/quran-in-office">
+  <img src="https://img.shields.io/badge/Active_Project-Quran_in_Office-183AB9?style=flat-square&logo=microsoft&logoColor=white" alt="Active Project" />
 </a>
 <a href="https://github.com/rifqimulyawan/rm-mail-merge-tools">
   <img src="https://img.shields.io/badge/Active_Project-RM_Mail_Merge_Tools-183AB9?style=flat-square&logo=github&logoColor=white" alt="Active Project" />
@@ -245,7 +249,7 @@
 <!-- Identity Badges -->
 <p>
   <a href="https://rmdigital.co.id">
-    <img src="https://img.shields.io/badge/Organization-RM_Digital-183AB9?style=flat-square&logo=business&logoColor=white" alt="Organization" />
+    <img src="https://img.shields.io/badge/Organization-RM_Digital-183AB9?style=flat-square" alt="Organization" />
   </a>
   <a href="https://rifqimulyawan.com">
     <img src="https://img.shields.io/badge/Blog-rifqimulyawan.com-183AB9?style=flat-square&logo=rss&logoColor=white" alt="Blog" />
@@ -266,7 +270,7 @@
 
 <img src="https://img.shields.io/badge/SEO_%26_Content-Data_Driven-183AB9?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="SEO & Content" />
 <img src="https://img.shields.io/badge/Business_Intelligence-Practical-183AB9?style=flat-square&logo=tableau&logoColor=white" alt="Business Intelligence" />
-<img src="https://img.shields.io/badge/Automation-for_Startups-AI_Powered-183AB9?style=flat-square&logo=automation&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Automation-for_Startups-AI_Powered-183AB9?style=flat-square&logo=zapier&logoColor=white" alt="Automation" />
 <img src="https://img.shields.io/badge/Applied_Research-Academic_%2B_Industry-183AB9?style=flat-square&logo=researchgate&logoColor=white" alt="Applied Research" />
 
 </div>
